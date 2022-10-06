@@ -2,6 +2,8 @@
 
 ## Overview
 
+This project was designed to analyze different supervised machine learning alogrithms to understands pros/cons of each scenarios.  This ML was classification of people who were either "high" or "low" risk applicants for loans.
+
 ## Results
 
 ### Naive Random Sampling
@@ -23,9 +25,5 @@
 ![image](https://user-images.githubusercontent.com/107078763/194195985-9e83b857-7602-4965-b19a-46d97b518317.png)
 
 
-
-
-
-
-
 ## Summary
+These models display different cases of whether to classifiy an applicant as "high" or "low" risk.  The classification report displays precision and recall %s to judge the accuracy of each model.  Precision is the predicts the number of true positives to total predicted positives.  Recall predicts  true positives to total actual positives in the data. High Recall rates means that the banks are falsey detecting customers as high risk when they are not.  F1 scores are a balanced prediction of precision or recall so I would utilize Balanced Random Forest Classifier if I needed to use a model to predict credit risk because the balanced score is 95%. Even though we may lose business to false negatives, this model has the best chance of predicting good credit.
