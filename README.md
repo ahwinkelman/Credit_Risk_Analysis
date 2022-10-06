@@ -19,6 +19,10 @@
 ### Balanced Random Forest Classifier
 ![image](https://user-images.githubusercontent.com/107078763/194195909-46fd30e4-a773-41e7-99f5-c2a08771cc52.png)
 
+### East Ensemble AdaBoost Classifier
+![image](https://user-images.githubusercontent.com/107078763/194195985-9e83b857-7602-4965-b19a-46d97b518317.png)
+
+
 
 
 
