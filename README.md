@@ -16,7 +16,9 @@
 ### Combo Over/under sampling
 ![image](https://user-images.githubusercontent.com/107078763/194195837-93c21db2-b000-4d36-9cbe-04b0a21df2b1.png)
 
-### 
+### Balanced Random Forest Classifier
+![image](https://user-images.githubusercontent.com/107078763/194195909-46fd30e4-a773-41e7-99f5-c2a08771cc52.png)
+
 
 
 
